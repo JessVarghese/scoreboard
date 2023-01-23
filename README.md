@@ -1,4 +1,4 @@
-# co2ca4391af6a890a9f303ac3
+# Scoreboard
 
 Quick start:
 
