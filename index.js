@@ -38,14 +38,13 @@ function addGuest3() {
     scoreGuest += 3
     guestCount.textContent = scoreGuest
 }
-function addGuest1() {
-    scoreGuest += 1
-    guestCount.textContent = scoreGuest
-}
+
 
 
 function newGame() {
-    homeCount.textContent = 0
-    guestCount.textContent = 0
+    scoreHome = 0
+    scoreGuest = 0
+    homeCount.textContent = scoreHome
+    guestCount.textContent = scoreGuest
     
 }
