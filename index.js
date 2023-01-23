@@ -48,3 +48,4 @@ function newGame() {
     guestCount.textContent = scoreGuest
     
 }
+
