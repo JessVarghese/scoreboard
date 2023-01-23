@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+    color: #EEEEEE;
+   
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+                                               
+}
+
+#score-home {
+    width: 155px;
+    height: 120px;
+    left: 82px;
+    top: 125px;
+    background: #080001;
+    border-radius: 5px;
+}
+
+#score-guest {
+    width: 155px;
+    height: 120px;
+    left: 82px;
+    top: 125px;
+    background: #080001;
+    border-radius: 5px;
+}
+
+.btn-inc {
+    padding: 10px;
+    color: #9AABD8;
+}
+
+span {
+font-family: 'Cursed Timer ULiL', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+/* or 141% */
+
+color: #F94F6D;
+}
